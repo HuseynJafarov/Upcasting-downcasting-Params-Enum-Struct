@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m078ZBZ6lzmEh1f56PRj61VM7/vx1mwBo8FciFrs4ZWUviBIJRZWfXs0hLzt0ALOee2YRTKQm5XM9tOzWNjt3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\CodeClassWork\\Enum-Struct-Upcasting-Downcasting\\Enum-Struct-Upcasting-Downcasting\\Enum-Struct-Upcasting-Downcasting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

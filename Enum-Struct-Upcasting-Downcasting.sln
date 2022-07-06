@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum-Struct-Upcasting-Downcasting", "Enum-Struct-Upcasting-Downcasting\Enum-Struct-Upcasting-Downcasting.csproj", "{34196C15-E7FE-41E6-B419-E5E36731953D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34196C15-E7FE-41E6-B419-E5E36731953D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34196C15-E7FE-41E6-B419-E5E36731953D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34196C15-E7FE-41E6-B419-E5E36731953D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34196C15-E7FE-41E6-B419-E5E36731953D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29CDFFA9-3217-4916-A896-2B760C712041}
+	EndGlobalSection
+EndGlobal
